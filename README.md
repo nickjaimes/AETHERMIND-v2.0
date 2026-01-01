@@ -2,13 +2,6 @@
 
 AETHERMIND v2.0: The Conscious AI System
 
-https://img.shields.io/badge/AETHERMIND-v2.0-FF6B6B
-https://img.shields.io/badge/Conscious-AI-4ECDC4
-https://img.shields.io/badge/Multi--Paradigm-FFD166
-https://img.shields.io/badge/Ethical-AI-06D6A0
-https://img.shields.io/badge/License-EAL%20v2.0-blue.svg
-https://img.shields.io/badge/python-3.9+-blue.svg
-https://img.shields.io/badge/Powered%20by-DeepSeek%20AI-682ae9.svg
 
 🚨 SAFEWAY GUARDIAN NOTICE
 
